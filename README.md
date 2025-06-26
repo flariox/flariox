@@ -3,7 +3,7 @@
 **Flariox** es una distribución GNU/Linux moderna, ligera y segura, diseñada para profesionales de TI, desarrolladores y entusiastas del software libre que buscan rendimiento, estabilidad y control total sobre su entorno.
 
 <p align="center">
-  <img src="https://www.flariox.com/assets/img/logo.png" width="120" alt="Logo de Flariox"/>
+  <img src="https://www.flariox.com/assets/images/logo/logo.png" width="120" alt="Logo de Flariox"/>
 </p>
 
 ---
